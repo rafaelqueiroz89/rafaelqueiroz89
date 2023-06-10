@@ -1,6 +1,6 @@
 # Welcome!
 
-![Profile Banner](https://path/to/profile/banner.png)
+![Profile Banner](https://i.ibb.co/TLSbpwx/github-header-image.png)
 
 Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer and tech enthusiast from 🇧🇷. This is my GitHub profile where I share my projects, contributions, and open-source work. Feel free to explore and collaborate!
 
@@ -13,13 +13,6 @@ Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer and tech enthus
 - 📫 How to reach me: [rafaelqueiroz@msn.com](mailto:rafaelqueiroz@msn.com)
 - 😄 Pronouns: He/Him
 
-## Featured Projects
-
-Here are some of my notable projects:
-
-- [Project 1](https://github.com/yourusername/project1): A brief description of the project.
-- [Project 2](https://github.com/yourusername/project2): A brief description of the project.
-- [Project 3](https://github.com/yourusername/project3): A brief description of the project.
 
 ## Get in Touch
 
