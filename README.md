@@ -25,6 +25,6 @@ Here are some of my notable projects:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. You can reach out to me through the following platforms:
 
-- LinkedIn: (https://www.linkedin.com/in/rafael-queiroz-643b2818/)([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/rafael-queiroz-643b2818/))
+- LinkedIn: [https://www.linkedin.com/in/rafael-queiroz-643b2818/]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/rafael-queiroz-643b2818/))
 
 Looking forward to connecting with you! 😊
