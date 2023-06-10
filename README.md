@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://i.ibb.co/TLSbpwx/github-header-image.png)
 
-Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer and tech enthusiast from 🇧🇷. This is my GitHub profile where I share my projects, contributions, and open-source work. Feel free to explore and collaborate!
+Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer with a generalist touch and tech enthusiast from 🇧🇷. This is my GitHub profile where I share my projects, contributions, and open-source work. Feel free to explore and collaborate!
 
 ## About Me
 
@@ -20,6 +20,8 @@ Here are a few of my featured projects:
 - [Design Patterns in C#](https://github.com/rafaelqueiroz89/design_patterns_in_csharp): Gang of Four goes C#
 - [Garbage Collector in C#](https://github.com/rafaelqueiroz89/csharp-garbage-collector): Remember to pick-up the trash kids
 - [Full Api solution with metrics](https://github.com/rafaelqueiroz89/api-with-metrics-on-docker): Did anyone say horizontal scale?
+
+See more [here](https://github.com/rafaelqueiroz89?tab=repositories)
 
 ## Get in Touch
 
