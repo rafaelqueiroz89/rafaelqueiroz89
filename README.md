@@ -13,6 +13,13 @@ Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer and tech enthus
 - 📫 How to reach me: [rafaelqueiroz@msn.com](mailto:rafaelqueiroz@msn.com)
 - 😄 Pronouns: He/Him
 
+## Projects
+
+Here are a few of my featured projects:
+
+- [Design Patterns in C#](https://github.com/rafaelqueiroz89/design_patterns_in_csharp): Gang of Four goes C#
+- [Garbage Collector in C#](https://github.com/rafaelqueiroz89/csharp-garbage-collector): Remember to pick-up the trash kids
+- [Full Api solution with metrics](https://github.com/rafaelqueiroz89/api-with-metrics-on-docker): Did anyone say horizontal scale?
 
 ## Get in Touch
 
