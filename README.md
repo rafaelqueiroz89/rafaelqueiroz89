@@ -7,9 +7,9 @@ Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer with a generali
 ## About Me
 
 - 💼 Currently working at Checkout.com (https://www.checkout.com), here is my public Github profile https://github.com/rafael-queiroz-cko
-- 🌱 I’m constantly learning and experimenting with new technologies, right now I'm learning Blazor 🪟
+- 🌱 I’m constantly learning and experimenting with new technologies, right now I'm learning Blazor and Angular 🪟
 - 👯 I’m looking to collaborate on interesting and innovative projects.
-- 💬 Ask me about new new tech, leadership, guitars, drums, rock bands and AWS ☁️
+- 💬 Ask me about new tech, leadership, guitars, drums, rock bands and AWS ☁️
 - 📫 How to reach me: [rafaelqueiroz@msn.com](mailto:rafaelqueiroz@msn.com)
 - 😄 Pronouns: He/Him
 
