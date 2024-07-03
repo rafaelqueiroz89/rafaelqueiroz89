@@ -6,21 +6,22 @@ Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer with a generali
 
 ## About Me
 
-- 💼 Currently working at Checkout.com (https://www.checkout.com), here is my public Github profile https://github.com/rafael-queiroz-cko
-- 🌱 I’m constantly learning and experimenting with new technologies, right now I'm learning Blazor and Angular 🪟
+- 💼 EX Checkout.com, here is my public Github profile https://github.com/rafael-queiroz-cko
+- 📈 Now working as a freelance/contractor developer
+- 🌱 I’m constantly learning and experimenting with new technologies, right now I'm learning the integration between Angular and .NET framework
 - 👯 I’m looking to collaborate on interesting and innovative projects.
-- 💬 Ask me about new tech, leadership, guitars, drums, rock bands and AWS ☁️
+- 💬 Ask me about new tech, leadership, guitars, drums, rock bands, AWS and .NET ☁️
 - 📫 How to reach me: [rafaelqueiroz@msn.com](mailto:rafaelqueiroz@msn.com)
-- 😄 Pronouns: He/Him
 
 ## Projects
 
 Here are a few of my featured projects:
 
-- [Design Patterns in C#](https://github.com/rafaelqueiroz89/design_patterns_in_csharp): Gang of Four goes C#
+- [Design Patterns in C#](https://github.com/rafaelqueiroz89/design_patterns_in_csharp): Gang of Four go C#
 - [Garbage Collector in C#](https://github.com/rafaelqueiroz89/csharp-garbage-collector): Remember to pick-up the trash kids
 - [Full Api solution with metrics](https://github.com/rafaelqueiroz89/api-with-metrics-on-docker): Did anyone say horizontal scale?
-
+- Now preparing a doc to atest the use of Makefile in pipelines
+  
 See more [here](https://github.com/rafaelqueiroz89?tab=repositories)
 
 ## Get in Touch
