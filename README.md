@@ -24,10 +24,6 @@ Here are a few of my featured projects:
   
 See more [here](https://github.com/rafaelqueiroz89?tab=repositories)
 
-## Get in Touch
-
-I'm always excited to connect with fellow developers and tech enthusiasts. You can reach out to me through the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/rafael-queiroz-643b2818/)
+## Get in Touch by email ;)
 
 Looking forward to connecting with you! 😊
