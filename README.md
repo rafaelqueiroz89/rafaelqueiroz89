@@ -1,6 +1,6 @@
 # Welcome!
 
-![Profile Banner](https://i.ibb.co/TLSbpwx/github-header-image.png)
+![github-header-image](https://github.com/user-attachments/assets/614fe51e-7259-4de1-9094-c64f3ebc8f6d)
 
 Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer with a generalist touch and tech enthusiast from 🇧🇷. This is my GitHub profile where I share my projects, contributions, and open-source work. Feel free to explore and collaborate!
 
