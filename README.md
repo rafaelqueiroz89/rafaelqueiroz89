@@ -10,7 +10,7 @@ Hello, visitors! 👋 I'm Rafael Queiroz, a passionate developer with a generali
 - 📈 Now working as a freelance/contractor developer
 - 🌱 I’m constantly learning and experimenting with new technologies, right now I'm learning the integration between Angular and .NET framework
 - 👯 I’m looking to collaborate on interesting and innovative projects.
-- 💬 Ask me about new tech, leadership, guitars, drums, rock bands, AWS and .NET ☁️
+- 💬 Ask me about new tech, leadership, guitars, drums, rock bands, AWS, Azure and .NET ☁️
 - 📫 How to reach me: [rafaelqueiroz@msn.com](mailto:rafaelqueiroz@msn.com)
 
 ## Projects
